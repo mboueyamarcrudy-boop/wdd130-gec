@@ -1,0 +1,31 @@
+# wdd130-gec<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ma-ville-préferer.com</title>
+</head>
+<body>
+    <h1><strong>Brazzaville</h1>
+        <p>
+        
+    <br/>
+          Brazzaville tiré du nom de l'explorateur pierre savorgnant de brazza, c'est la ville politique et capitale de la république du congo ,<br/>
+            Du pont de 1860, des deux tours jumelles, de la tour na mbemba, au stade alphnose massamba debat, du palais du peuple a l' aéroport maya-maya<br/>
+                brazzaville c'est une ville en développement. 
+            </p>
+        <br/>
+    <br/>
+            <p>
+                Hébergeant le premier siége de l'OMS en afrique ,brazzaville c'est une ville qui se différencie tant par sa culture et par son histoire <br/>
+                cette culture alimenté par certains particularité comme la fusionomie des couleurs qui est la sape , nouris par une ambiance et musique purement africaine <br/>
+                comme le coupé décalé ;le dombolo; le mapouka et plus encore en somme brazzaville est une ville en construction et voici une image reflétant une partie de son image
+
+        <img src="../images/bzm.jpg" alt="ville DE Brazzaville" height="600" width="1100">   
+
+        </p>
+    
+</body>
+<footer></footer>
+</html>
